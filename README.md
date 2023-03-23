@@ -1,7 +1,7 @@
 # xgboost
-Repository for XGBoost Materials
+#### Repository for XGBoost Materials from Matt Harrison's book ["Effective XGBoost"](https://store.metasnake.com/xgboost)
 
-This repo will walk through building an end-to-end XGBoost model using banking data.
+::python::This repo will walk through building an end-to-end XGBoost model using banking data.
 
 Steps covered:
 - EDA
